@@ -1215,11 +1215,7 @@ input[type="radio"] + label:before {
   border-radius: 0.375em;
   border: 0;
   display: inline-block;
-  position: relative; 
-  max-width:230px;
-  max-height:95px;
-  width: auto;
-  height: auto;}
+  position: relative; }
   .image img {
     border-radius: 0.375em;
     display: block; }
@@ -2120,8 +2116,6 @@ button,
   display: flex; }
   #banner h1 {
     margin-top: -0.125em; }
-  #banner p {
-	  font-size: 16px;}
   #banner .content {
     -moz-flex-grow: 1;
     -webkit-flex-grow: 1;
