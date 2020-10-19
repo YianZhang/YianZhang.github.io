@@ -1,0 +1,40 @@
+.paper_title{
+    font-size: 18px;
+    font-weight: bold;
+    color: black;
+}
+
+.paper_info{
+    font-size: 17px;
+}
+
+.horizontal-center {
+  padding: 0 3% 30px;
+}
+
+.horizontal-center img {
+    border-radius: 0.375em;
+    vertical-align: middle;
+    width: 100%;
+}
+
+.content p{
+    text-align: justify;
+}
+
+.vertical-center{
+    white-space: nowrap; /* This is required unless you put the helper span closely near the img */
+    text-align: center;
+    margin: 1em 0;
+    height: 100%;
+    display: block;
+    width: 70%;
+    margin: 0 auto;
+}
+
+.center-helper {
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}
+
