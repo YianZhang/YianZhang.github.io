@@ -8,6 +8,11 @@
     font-size: 17px;
 }
 
+.conference{
+    font-size: 17px;
+    color: black;
+}
+
 .horizontal-center {
   width: 50%;
   padding: 0 1% 30px;
